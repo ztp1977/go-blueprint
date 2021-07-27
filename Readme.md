@@ -36,5 +36,5 @@ make open-examples
 
 ### doc site
 
-![image doc site](assets/doc-site.png)
+![image doc site](assets/doc-site.jpg)
 
